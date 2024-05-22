@@ -12,9 +12,9 @@
 
 ## Como executar
 
-Para executar o aplicativo, basta abrir o arquivo index.html em um navegador da web compatível.
+Para executar o aplicativo, basta abrir o arquivo `index.html` em um navegador da web compatível.
 
-[Ou clique aqui e será direcionado ao site ativo.]()
+[Ou clique aqui e será direcionado ao site ativo.](https://tatyanepgoncalves.github.io/Social-Proof/)
 
 
 ## Personalização
